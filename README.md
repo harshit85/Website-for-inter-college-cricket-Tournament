@@ -1,4 +1,2 @@
-# Startup-Profit-Anticipation
-In this project a machine learning algorithm (Multiple linear Regression) is used to anticipate profit
-of an startup on the basis of multiple factor like RD spend, administration cost,markrting spent ,place
-where is it
+# Website for inter college cricket Tournament
+◦ It was an online platform for cricket tournament. Where matches and players statistics were shown.
